@@ -39,6 +39,7 @@
 		C2FEB32824B7B498004FAB73 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FEB32724B7B498004FAB73 /* CategoryHome.swift */; };
 		C2FEB32A24B7B649004FAB73 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FEB32924B7B649004FAB73 /* CategoryRow.swift */; };
 		C2FEB32C24B7B855004FAB73 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FEB32B24B7B855004FAB73 /* CategoryItem.swift */; };
+		DCC961042C3E730F00DAEE48 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCC961032C3E730F00DAEE48 /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		C2FEB32724B7B498004FAB73 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 		C2FEB32924B7B649004FAB73 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		C2FEB32B24B7B855004FAB73 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
+		DCC961032C3E730F00DAEE48 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				0491EF2A2C307A100038D018 /* ProfileHost.swift */,
 				0491EF2E2C307BD40038D018 /* ProfileSummary.swift */,
 				0491EF302C307D320038D018 /* HikeBadge.swift */,
+				DCC961032C3E730F00DAEE48 /* ProfileEditor.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -339,6 +342,7 @@
 				C20D77F024B665D7002E7AEA /* LandmarkDetail.swift in Sources */,
 				C20D77FF24B67FB3002E7AEA /* MapView.swift in Sources */,
 				0491EF2F2C307BD40038D018 /* ProfileSummary.swift in Sources */,
+				DCC961042C3E730F00DAEE48 /* ProfileEditor.swift in Sources */,
 				C20D781824B6C5F6002E7AEA /* RotatedBadgeSymbol.swift in Sources */,
 				C20D781624B6C582002E7AEA /* BadgeSymbol.swift in Sources */,
 				0491EF272C3072F70038D018 /* Collection+.swift in Sources */,
